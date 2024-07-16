@@ -9,13 +9,6 @@ This website is designed to provide information about me, my work, and how to ge
 - Blog
 - Contact
 
-## Sections
-
-### Home
-The home section provides a brief introduction about myself and my work. It serves as a landing page for visitors to get an overview of who I am.
-
-### Blog
-The blog section features my latest blog posts. Stay tuned for updates on my latest thoughts and projects.
 
 ### Contact
 The contact section includes links to my social media profiles and a way to reach me via email. You can find me on:
