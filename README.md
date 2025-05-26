@@ -56,7 +56,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=zhaleh-rahimi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=zhaleh-rahimi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zhaleh-rahimi)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zhaleh-rahimi" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
