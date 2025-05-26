@@ -64,7 +64,7 @@
 <br/>
 
 <div align="center">
-<a href='https://zhaleh-rahimi.github.io/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='My Page!' /></a>
+<a href='https://www.linkedin.com/in/rahimi-zhaleh/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='My Page!' /></a>
 </div>
 
 <br/>
