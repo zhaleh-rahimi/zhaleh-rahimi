@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Deep Reinforcement Learning for Joint Replensihment Problem**
+ 🔭 I’m currently working on **Deep Reinforcement Learning for Joint Replenishment Problem**
  
 
  </div>
