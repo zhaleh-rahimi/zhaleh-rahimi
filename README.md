@@ -14,7 +14,7 @@
  
  ✅ I've recently finished working on <a href="https://github.com/zhaleh-rahimi/MIMPCorr"> **Multi-variate Correlated Demand Modeling for Optimal Ordering Policies** </a>
 
- ✅ I've also contibuted to <a href="https://www.sciencedirect.com/science/article/pii/S3050784725000030"> **Clustering-based Demand Forecasting for Systems with Heterogeneous Datasets** </a>
+ ✅ I've also developed a <a href="https://www.sciencedirect.com/science/article/pii/S3050784725000030"> **Clustering-based Demand Forecasting Framework for Systems with Heterogeneous Datasets** </a>
 
  </div>
  
