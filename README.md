@@ -11,7 +11,7 @@
 <div align="center">
  
  🔭 I’m currently working on **Deep Reinforcement Learning for Joint Replenishment Problem**
- 
+ ✅ I've recently finished working on <a href=""Multi-variate Correlated Demand Modeling for Optimal Ordering Policies"" target= "https://github.com/zhaleh-rahimi/MIMPCorr"/>
 
  </div>
  
