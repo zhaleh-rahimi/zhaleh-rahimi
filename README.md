@@ -10,12 +10,16 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Deep Reinforcement Learning for Joint Replenishment Problem**
+ 🔭 I’m currently working on **Deep Reinforcement Learning for the Joint Replenishment Problem**  
+
+✅ I recently completed <a href="https://github.com/zhaleh-rahimi/MIMPCorr">**Multi-variate Correlated Demand Modeling for Optimal Ordering Policies**</a>  
+
+✅ I also developed a <a href="https://www.sciencedirect.com/science/article/pii/S3050784725000030">**Clustering-based Demand Forecasting Framework for Systems with Heterogeneous Datasets**</a>  
+
+🧩 I’m currently exploring **Applications of Large Language Models (LLMs) in Sequential Decision-Making**  
+
+🤝 I’m passionate about and open to collaborations on **Privacy and Ethics in AI** 
  
- ✅ I've recently finished working on <a href="https://github.com/zhaleh-rahimi/MIMPCorr"> **Multi-variate Correlated Demand Modeling for Optimal Ordering Policies** </a>
-
- ✅ I've also developed a <a href="https://www.sciencedirect.com/science/article/pii/S3050784725000030"> **Clustering-based Demand Forecasting Framework for Systems with Heterogeneous Datasets** </a>
-
  </div>
  
 <div align="center"> 
