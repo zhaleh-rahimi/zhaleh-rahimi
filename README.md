@@ -10,9 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Integrated Learning and Optimization Methods (ILO)**
+ 🔭 I’m currently working on **Deep Reinforcement Learning for Joint Replensihment Problem**
  
- 🌱 I’m currently learning **Multi-variate Quantile Learning**
 
  </div>
  
