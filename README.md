@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Deep Reinforcement Learning for Joint Replenishment Problem**
  
- ✅ I've recently finished working on <a href="https://github.com/zhaleh-rahimi/MIMPCorr">**Multi-variate Correlated Demand Modeling for Optimal Ordering Policies**<\a>
+ ✅ I've recently finished working on <a href="https://github.com/zhaleh-rahimi/MIMPCorr"> **Multi-variate Correlated Demand Modeling for Optimal Ordering Policies** </a>
 
  </div>
  
