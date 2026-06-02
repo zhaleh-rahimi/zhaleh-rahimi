@@ -9,12 +9,15 @@
 <br/>
 
 <div align="center">
+🔭  I am currently working on **Federated Learning for Healthcare Operations**
+
+    Recently finished projects:
  
- 🔭 I’m currently working on **Deep Reinforcement Learning for the Joint Replenishment Problem**  
+✅ **Deep Reinforcement Learning for the Joint Replenishment Problem**  
 
-✅ I recently completed <a href="https://github.com/zhaleh-rahimi/MIMPCorr">**Multi-variate Correlated Demand Modeling for Optimal Ordering Policies**</a>  
+✅  <a href="https://github.com/zhaleh-rahimi/MIMPCorr">**Multi-variate Correlated Demand Modeling for Optimal Ordering Policies**</a>  
 
-✅ I also developed a <a href="https://www.sciencedirect.com/science/article/pii/S3050784725000030">**Clustering-based Demand Forecasting Framework for Systems with Heterogeneous Datasets**</a>  
+✅  <a href="https://www.sciencedirect.com/science/article/pii/S3050784725000030">**Clustering-based Demand Forecasting Framework for Systems with Heterogeneous Datasets**</a>  
 
 🧩 I’m currently exploring **Applications of Large Language Models (LLMs) in Sequential Decision-Making**  
 
