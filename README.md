@@ -9,11 +9,11 @@
 <br/>
 
 <div align="center">
-🔭  I am currently working on **Federated Learning for Healthcare Operations**
+🔭  I am currently working on **Federated Learning for Healthcare Operations** 
 
-    Recently finished projects:
- 
-✅ **Deep Reinforcement Learning for the Joint Replenishment Problem**  
+**Finished Projects:**
+
+✅     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819064">**Deep Reinforcement Learning for the Joint Replenishment Problem**</a>  
 
 ✅  <a href="https://github.com/zhaleh-rahimi/MIMPCorr">**Multi-variate Correlated Demand Modeling for Optimal Ordering Policies**</a>  
 
